@@ -64,7 +64,7 @@ The assignment required creating a PL/SQL package to streamline hospital patient
 ## Screenshots of Results
 
 ### Security System Evidence
-![Security System Test Results](Security-System/security_evidence1.png)
+![Security System Test Results](https://github.com/Emmalise1/Hospital-security-system/blob/main/security_evidence1.png?raw=true)
 ![Security System Test Results](Security-System/security_evidence2.png)
 ![Security System Test Results](Security-System/security_evidence3.png)
 ![Security System Test Results](Security-System/security_evidence4.png)
