@@ -28,6 +28,7 @@ The assignment required creating a PL/SQL package to streamline hospital patient
 
 **Database Design:**
 - Created `login_audit` table to store all login attempts with username, timestamp, status, and IP address
+  //status will be having SUCCESS or FAILED attempt
 - Created `security_alerts` table to store security alerts with detailed information
 
 **Technical Implementation:**
